@@ -234,7 +234,7 @@ int main()	{
 			case '8':
 				if(hesapla1(kok)!=-1 && hesapla2(kok)!=-1 ){
 					int h1=hesapla1(kok),h2=hesapla2(kok);
-					printf("aralarındaki fark= %d",h1-h2);
+					printf("aralarÄ±ndaki fark= %d",h1-h2);
 				}
 				else printf("degerlerden biri eksik.");
 				break;
